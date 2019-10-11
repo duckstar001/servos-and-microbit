@@ -2,7 +2,8 @@
     "name": "Motion with the Microbit\n",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "servo": "*"
     },
     "description": "",
     "files": [
